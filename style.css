@@ -1,0 +1,25 @@
+#carousel {
+    height: 10%; /* ou qualquer valor que prefira */
+    object-fit: cover; /* mantém o aspecto das imagens */
+}
+
+header{
+    background-color: aliceblue;
+}
+
+.social-links li{
+    list-style: none;
+    display: inline;
+}
+
+.social-links a{
+    text-decoration: none;
+}
+
+textarea{
+    resize: none;
+}
+
+#fale-conosco{
+    background-color: aliceblue;
+}
